@@ -6,3 +6,7 @@ Membuat kalkulator sederhana
 - CSS
 - Javascript
 - Visual Studio code
+
+### Links
+
+- [Live Site URL](https://kalkulator-uzi.netlify.app/)
